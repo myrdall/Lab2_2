@@ -1,6 +1,6 @@
 *.sln
-Lab2_2/*vcxproj.*
-Lab2_2/*vcxproj
+**/*vcxproj.*
+**/*vcxproj
 .vs
 **/*.exe
 **/Debug
