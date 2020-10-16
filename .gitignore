@@ -1,0 +1,6 @@
+*.sln
+Lab2_2/*vcxproj.*
+Lab2_2/*vcxproj
+.vs
+**/*.exe
+**/Debug
